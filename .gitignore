@@ -10,6 +10,7 @@ env/
 ENV/
 
 # Python cache files
+output/
 __pycache__/
 *.pyc
 *.pyo
